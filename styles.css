@@ -34,8 +34,8 @@ header a {
   display: block;
   float: right;
   margin-top: 0;
-  padding-top: 40px;
-  padding-right: 1.5em;
+  padding-top: 1.5em;
+  padding-right: 1em;
   font-size: 1em;
   font-weight: bold;
 }
